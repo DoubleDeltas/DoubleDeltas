@@ -1,4 +1,4 @@
-<small>Lang: [EN](../README.md) / **KR**</small>
+<small>Lang: [EN](https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README.md) / **KR**</small>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
 
