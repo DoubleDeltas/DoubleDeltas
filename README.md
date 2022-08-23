@@ -46,10 +46,10 @@
 > It's an AI project which crawling public data APIs provided by the Korea Meteorological Administration to train models and predict weather data. I summarized the knowledge of machine learning through this project.
 
 ### Toy Projects
-─ The person who is too serious about playing. ─
+─ The person who is too serious about playing ─
 
-#### Branch World Language Maker
-> It's a dictionary program that allows you to easily generate and view words based on rune characters. This project was started from create letters for the client's universe 'Branch World'.
+#### [Branch World Language Maker](https://github.com/DoubleDeltas/BranchWorldLangMaker)
+> It's a dictionary program that allows you to easily generate fictious words based on rune characters and browse them. This project was started to create letters for the client's universe 'Branch World' at first.
 
 ### Problem Solving(PS)
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
