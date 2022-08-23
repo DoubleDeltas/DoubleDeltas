@@ -41,9 +41,14 @@
 ### 개인 프로젝트
 
 ### 실험용 프로젝트
-#### [Weather Forecast In Scikit-Learn](https://github.com/DoubleDeltas/WeatherForecastWithSklearn)
+#### [Weather Forecast with Scikit-Learn](https://github.com/DoubleDeltas/WeatherForecastWithSklearn)
 > 기상청에서 제공하는 공공 데이터 API를 크롤링하여 모델을 훈련시키고 기상을 예측하는 AI 프로젝트입니다. 기계학습에 관한 지식을 총정리하였습니다.
 
+### 토이 프로젝트
+─ 노는데 너무 진심인 사람 ─
+
+#### [가지세계 언어 생성기](https://github.com/DoubleDeltas/BranchWorldLangMaker)
+> 룬 문자를 기반으로 한 가공의 단어를 쉽게 생성하고 열람할 수 있는 사전 프로그램입니다. 처음에 이 프로젝트는 의뢰자의 창작설정 '가지세계'에 사용될 언어를 만들기 위해 시작되었습니다.
 
 ### 문제풀이(Problem Solving, PS)
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
