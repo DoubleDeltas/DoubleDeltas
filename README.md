@@ -1,5 +1,5 @@
 <p align="center">
-<big><b>English</b> / <a href="https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README.md">한국어</a></big></p>
+<big><b>English</b> / <a href="https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README_kr.md">한국어</a></big></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
 
