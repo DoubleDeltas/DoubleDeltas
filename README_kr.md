@@ -1,4 +1,5 @@
-<small>Lang: [EN](https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README.md) / **KR**</small>
+<p align="center">
+<big><a href="https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README.md">English</a> / <b>한국어</b></big></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
 
