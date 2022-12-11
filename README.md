@@ -20,6 +20,7 @@
 * HTML / CSS
 * Javascript / Typescript
 	* Node.js (backend)
+	* Discord.js (Discord app)
 * Python: Flask
 
 ### AI
