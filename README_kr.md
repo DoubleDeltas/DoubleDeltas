@@ -20,6 +20,7 @@
 * HTML / CSS
 * Javascript / Typescript
 	* Node.js (백엔드)
+	* Discord.js (디스코드 앱)
 * Python: Flask
 
 ### AI
