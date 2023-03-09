@@ -18,6 +18,7 @@
 
 ### Web
 * HTML / CSS
+* Java: Spring
 * Javascript / Typescript
 	* Node.js (backend)
 	* Discord.js (Discord app)
@@ -38,7 +39,10 @@
 > Finding Recyclables is the **serious 'room escape' game** to encourage users to recycle properly. It was submitted to [ICCAS](http://akcse.ca/ckc2022/index.php?gt=pro/pro06) program of the [CKC 2022](http://akcse.ca/ckc2022/) conference hosted by [AKCSE](https://www.akcse.ca/), and won the first place.
 
 #### [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)
-> Bapsim is the web service to **manage ticketing** on cafeteria. The word 'bapsim' means 'the power you get when you take a meal' in korean.
+> Bapsim is the web service to **manage ticketing** on cafeteria. The word 'bapsim' means 'the power that you get when you take a meal' in Korean.
+
+#### [Paiary](https://github.com/Graduation-23)
+> Paiary is the mobile application that can arrange **consumption details** along with **diaries** and **share** them with others. This is my graduation project.
 
 ### Personal Projects
 > 
