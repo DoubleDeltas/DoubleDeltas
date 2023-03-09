@@ -2,6 +2,7 @@
 <big><a href="https://github.com/DoubleDeltas/DoubleDeltas/blob/master/README.md">English</a> / <b>한국어</b></big></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleDeltas&layout=compact&theme=light&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 개발 기술
 ### C 계열
