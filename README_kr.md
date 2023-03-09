@@ -40,6 +40,9 @@
 #### [밥심 (Bapsim)](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)
 > 밥심은 구내식당의 식권 발급을 관리하기 위한 웹 서비스입니다.
 
+#### [페이어리 (Paiary)](https://github.com/Graduation-23)
+> 페이어리는 일기와 함께 소비내역을 정리하여 다른 사람들과 공유할 수 있는 모바일 애플리케이션입니다. 졸업 작품입니다.
+
 ### 개인 프로젝트
 
 ### 실험용 프로젝트
