@@ -18,6 +18,7 @@
 
 ### Web
 * HTML / CSS
+	* Bootstrap 5
 * Java: Spring
 * Javascript / Typescript
 	* Node.js (백엔드)
