@@ -56,6 +56,10 @@
 #### [Branch World Language Maker](https://github.com/DoubleDeltas/BranchWorldLangMaker)
 > It's a dictionary program that allows you to easily generate fictious words based on rune characters and browse them. This project was started to create letters for the client's universe 'Branch World' at first.
 
+#### [MineCollector](https://github.com/DoubleDeltas/MineCollector)
+> MineCollector is the Minecraft plugin for collecting all of Minecraft's items and competing with other players. Check out who's the best collector!
+
 ### Problem Solving(PS)
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
 > I posted the answers and explanation of difficult problems that I solved in problem banks such as [Baekjoon Online Judge](https://www.acmicpc.net/).
+> Edit: 
