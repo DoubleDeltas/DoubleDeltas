@@ -17,7 +17,8 @@
 
 ### Web
 * HTML / CSS
-* Java: Spring
+	* Bootstrap 5 
+* Java: SpringBoot
 * Javascript / Typescript
 	* Node.js (backend)
 	* Discord.js (Discord app)
