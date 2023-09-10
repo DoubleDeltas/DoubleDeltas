@@ -62,4 +62,5 @@
 ### Problem Solving(PS)
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
 > I posted the answers and explanation of difficult problems that I solved in problem banks such as [Baekjoon Online Judge](https://www.acmicpc.net/).
-> Edit: 
+> 
+> Edit: I'm now posting them at my [Velog](https://velog.io/@doubledeltas?tag=ps). 
