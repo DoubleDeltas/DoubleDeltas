@@ -56,6 +56,11 @@
 #### [가지세계 언어 생성기](https://github.com/DoubleDeltas/BranchWorldLangMaker)
 > 룬 문자를 기반으로 한 가공의 단어를 쉽게 생성하고 열람할 수 있는 사전 프로그램입니다. 처음에 이 프로젝트는 의뢰자의 창작설정 '가지세계'에 사용될 언어를 만들기 위해 시작되었습니다.
 
+#### [마인콜렉터](https://github.com/DoubleDeltas/MineCollector)
+> 마인콜렉터는 마인크래프트의 모든 아이템을 수집하고 다른 플레이어와 경쟁하기 위한 마인크래프트 플러그인입니다. 최고의 수집가가 누구인지 확인해보세요!
+
 ### 문제풀이(Problem Solving, PS)
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
-> [백준 온라인 저지](https://www.acmicpc.net/)와 같은 문제은행 사이트에서 푼 어려운 문제들의 답과 해설을 모았습니다..
+> [백준 온라인 저지](https://www.acmicpc.net/)와 같은 문제은행 사이트에서 푼 어려운 문제들의 답과 해설을 모았습니다.
+> 
+> 수정: 현재는 [Velog](https://velog.io/@doubledeltas?tag=ps)에 기록하고 있습니다.
