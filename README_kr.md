@@ -66,4 +66,4 @@
 #### [PS-Streak](https://github.com/DoubleDeltas/PS-Streak)
 > [백준 온라인 저지](https://www.acmicpc.net/)와 같은 문제은행 사이트에서 푼 어려운 문제들의 답과 해설을 모았습니다.
 > 
-> 수정: 현재는 [Velog](https://velog.io/@doubledeltas?tag=ps)에 기록하고 있습니다.
+> 수정: 현재는 [Velog](https://velog.io/@doubledeltas?tag=ps)에 기록하고 있으며 이곳에 올라오는 글은 자동 작성되고 있습니다.
