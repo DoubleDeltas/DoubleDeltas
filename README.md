@@ -3,35 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills
-### C's
-* C / C++
-	* Win32
-* C#
-	* .NET Windows Form
-
-### Java's
-* Java
-	* Android
-	* Minecraft plugin
-* Kotlin
-
-### Web
-* HTML / CSS
-	* Bootstrap 5 
-* Java
-  	* Spring MVC
-	* Spring Boot
-* Javascript / Typescript
-	* Node.js (backend)
-	* Discord.js (Discord app)
-* Python: Flask
-
-### AI
-* Python
-	* ML: NumPy, Pandas, Sk-Learn
-	* NN: Tensorflow, Keras
-
-## Browse Repository
+- Java, JS/TS, Python, C#
+- Web Backend, Minecraft Plugin, Unity and some Domain-specific utility apps...
 
 ### Team Projects
 #### [PaintChatting](https://github.com/yunseunghyeok/PaintChatting)
