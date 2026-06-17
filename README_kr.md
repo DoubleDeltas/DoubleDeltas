@@ -4,33 +4,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleDeltas)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 개발 기술
-### C 계열
-* C / C++
-	* Win32
-* C#
-	* .NET Windows Form
-
-### Java 계열
-* Java
-	* Android
-	* Minecraft plugin
-* Kotlin
-
-### Web
-* HTML / CSS
-	* Bootstrap 5
-* Java:
-	* Spring MVC
-	* Spring Boot
-* Javascript / Typescript
-	* Node.js (백엔드)
-	* Discord.js (디스코드 앱)
-* Python: Flask
-
-### AI
-* Python
-	* ML: NumPy, Pandas, Sk-Learn
-	* NN: Tensorflow, Keras
+- Java, JS/TS, Python, C#
+- 웹 백엔드, 마인크래프트 플러그인, 유니티, 그리고 유틸리티 프로그램들...
 
 ## 리포지토리 둘러보기
 
